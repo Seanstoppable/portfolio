@@ -1,8 +1,42 @@
+---
 # Project template
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- name: Security Roundup
+  github: https://github.com/seanstoppable/seanstoppable.github.io
+  link: https://seanstoppable.github.io
   quote: >
-    Short overview of the project (optional)
+    An archive of Security Roundup, a weekly news roundup of security trends
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Wrote a weekly security newsletter from February 2016 to May 2018.
+    This newsletter collected interesting stories and trends, attempting to distill large articles
+    into more consumable tidbits for coworkers and other interested parties.
+
+- name: awesome-leading-and-managing
+  github: LappleApple/awesome-leading-and-managing
+  quote: >
+    An Awesome List of resources on how to lead people and be a manager
+  description: | # this will include new lines to allow paragraphs
+    Contributor to my friend's initiative for curating great content on the
+    subject of leading and managing.
+    Geared towards people coming from the tech space, as many engineers tend to
+    find themselves thrust into managerial roles.
+
+- name: wtf
+  github: wtfutil/wtf
+  link: https://www.wtfutil.com
+  quote: >
+    The personal information dashboard for your terminal.
+  description: | # this will include new lines to allow paragraphs
+    Contributor of plugins to this open source project. In particular:
+     - A plugin for `Datadog` to show triggered alerts.
+     - A plugin for `PagerDuty` to show triggered alerts and on-call schedules.
+
+- name: gmailcleaner
+  github: Seanstoppable/gmailcleaner
+  quote: >
+    A command line tool to programatically clean up a gmail inbox
+  description: | # this will include new lines to allow paragraphs
+    Tired of cleaning out large inboxes by hand, I instead wrote an application
+    where I could set up rules to automate cleanup.
+    Since part of my desire was time based filters, which Gmail does not support,
+    my option was to do it myself.
+    This was an exploration in Golang and the Gmail API.

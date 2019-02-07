@@ -1,38 +1,39 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: Seanstoppable/portfolio
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Sean Smith
+title: Engineer/Canadian/Cyborg
+#email: Your email (optional)
+#phone: Your phone number (optional)
+#website: Your website (eg. https://google.com)(optional)
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+#twitter_username: jekyllrb
+github_username: Seanstoppable
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: seandsmith
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: assets/images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hello! My name is Sean Smith. I am a backend oriented engineer with over 13 years of experience building APIs and integrations.
+  I am currently Director of Architecture at a company called SecurityScorecard.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  I like learning about the industry I work in and leveraging technology
+  to solve real world business problems.
+  My preference is to use good tools to build great things. I don't shy away
+  from building something from nothing as needed, but I'd rather focus on actual
+  business problems than build my own framework from scratch.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -44,14 +45,15 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: Non-careerisms
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  Congrats on making it this far! Other interesting facts: I like making pickles,
+  have founded beer AND a whiskey clubs at previous jobs, and love board games of every kind.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  I'm also fasciniated by security, both physical and electronic, having previously written a weekly roundup of trends for two years.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)

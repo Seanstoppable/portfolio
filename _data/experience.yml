@@ -1,9 +1,59 @@
+---
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+- company: SecurityScorecard
+  link: https://www.securityscorecard.com/
+  job_title: Director of Architecture
+  dates: October 2015 - present
   quote: >
-   Short description of the company (optional)
+    SecurityScorecard provides security ratings for any company on the internet in under 5 minutes.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Grew SecurityScorecard’s infrastructure to scale from handling 10K+ scorecards to 1M+ scorecards.
+    - Managed the Signals Collection team from October 2017-November 2018, primarily focused on active data collection in a scalable and reliable manner. Worked across departments with other engineering teams and business stakeholders to design systems that would meet both present and future business needs, as well as scale with company growth.
+    - Lead the Collections team from having persistent collection problems every other week, with frequent critical maintenance to largely only doing light preventative maintenance (90% reduction in maintenance), while at the same time cutting infrastructure costs and our codebase in half.
+    - Expanded Collection’s purview from just collecting data to performing analysis on it, extending their expertise all the way to the UI. With this greater scope, and streamlined responsibility, the collections team released 12 new issues in 2018, a 200% increase over 2016 and 2017 combined.
+    - Collections improved one of the platform’s scoring factors, Application Security, which was largely sparse for companies (i.e. low number of companies with findings), and transformed it into the least sparse factor. Similarly, completely redefined our Network Security factor to eliminate an entire category of false positives, while at the same time also reducing sparsity.
+    - Built out ‘Vendor Relationships’, finding signals that tied organizations together in a client/vendor relationship, taking an existing PoC and scaling findings up 100x, allowing vendors additional insights into the connections of their third party ecosystem.
+    - Designed and implemented the concept of ‘positive’ signals to the platform, highlighting areas where an organization is implementing new/evolving security mechanisms prior to them becoming best/common practices.
+    - Started a technology radar, to help developers make intelligent decisions around what technologies would be easiest to find help/support with, as well as a starting point for discussing new technologies individuals would like to adopt.
+    - Started a wiki to collect all discussion of our platform findings, including research opportunities, research that had reached a dead end, active issues and issues actively retired (replaced with better versions), such that stakeholders would have a better sense of the lifecycle of ideas, and to reduce meetings to rehash topics that had previously been undocumented.
+    - Wrote a weekly newsletter for 2+ years containing a roundup of security news that was relevant to company employees and leadership. An archive of these posts is available at https://seanstoppable.github.io
+    - Led dozens of  talks to familiarize people with security trends and new research. This included running a 1-day internal conference with guest speakers for external perspectives, moderating discussion on research papers, and presenting on parts of our own product.
+    - Awarded the “Above and Beyond the Call of Duty” award 2018, for numerous contributions to the company.
+
+- company: Gilt Groupe
+  dates: August 2011 - September 2015
+  jobs:
+    - title: Software Engineer
+      dates: August 2011 - April 2012
+    - title: Lead Engineer
+      dates: April 2012 - August 2013
+    - title: Senior Software Engineer
+      dates: August 2013 - November 2014
+    - title: Princial Software Engineer
+      dates: November 2014 - September 2015
+  quote: >
+    Gilt Groupe was an online shopping and lifestyle eCommerce site.
+  description: | # this will include new lines to allow paragraphs
+    - Joined the Push team in November 2014 to scale Gilt’s next generational email content generation platform. Scaled the system from taking 6 hours to build 50% of our daily audience to 2.5 hours to generate 100% of our audience.
+    - Joined a crisis team in September 2015, when it was discovered that delivery windows at checkout were inaccurate over 25% of the time. Replaced the old system, which involved a large query that took 60+ minutes to generate a cache, with a new system that pushes updates to a micro service that can calculate windows on demand with 99.992% accuracy.
+    - Lead the Distribution team to streamline and standardize 3rd Party Logistics (3PL) communications, while also expanding the number of 3PLs we deal with. Started with 6 3PL partners and 6 different message processes. Increased 3PL partners to 11, while reducing number of messaging processes to 4.
+    - Built a new messaging platform on Apache Camel for message translation and routing, which enabled simplification of the business layer, while still communicating with partners using a wide variety of technologies from CSV over FTP to XML over AWS. This work was leveraged to open the distribution network to external vendors, allowing Gilt to manage inventory and fulfill orders for other eCommerce companies.
+    - Worked with a team to improve the performance of a legacy Rails app, taking the average response time from 650ms to 370ms.
+    - Took over maintenance for the company job system, a key part of company architecture responsible for the execution of thousands of daily jobs and simplified the process of adding new jobs.
+    - Presented numerous times over the years on a variety of topics, from architecture of some of our projects, to how some of our workflows evolved over time, to how we solved deploy problems.
+    - Awarded Back Office Employee of the Month 3 times in 2013, for numerous contributions to tech
+
+- company: Sampling Technologies, Inc (STI)
+  link: http://www.smartsti.com
+  dates: October 2006 - August 2011
+  job_title: Software Engineer, Network Administrator
+  quote: >
+    STI provided pharmaceutical companies with solutions for managing drug sampling and
+    customer retention programs.
+
+- company: v1Labs
+  dates: April - September 2006
+  job_title: Software Engineer (Contract)
+  quote: >
+    v1Labs provided software for Telecommunications companies, designed to reduce troubleshooting
+    for customers, and reduce time on script for Customer Service Reps.
