@@ -27,7 +27,7 @@ linkedin_username: seandsmith
 about_profile_image: assets/images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! My name is Sean Smith. I am a backend oriented engineer with over 13 years of experience building APIs and integrations.
-  I am currently Director of Architecture at a company called SecurityScorecard.
+  I am currently Director of Architecture at SecurityScorecard.
 
   I like learning about the industry I work in and leveraging technology
   to solve real world business problems.
