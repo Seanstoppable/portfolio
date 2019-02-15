@@ -22,7 +22,7 @@
 
 - name: wtf
   github: wtfutil/wtf
-  link: https://www.wtfutil.com
+  link: http://www.wtfutil.com
   quote: >
     The personal information dashboard for your terminal.
   description: | # this will include new lines to allow paragraphs
