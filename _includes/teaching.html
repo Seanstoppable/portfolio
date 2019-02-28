@@ -1,0 +1,25 @@
+<div class="container teaching-container">
+  <h3>{{ site.teaching_title | default: "Presenting" }}</h3>
+  {% for teaching in site.data.teaching %}
+    <div class="row clearfix teaching">
+      <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
+        <h4 class="name">
+          {%- if teaching.link -%}
+            {% include a.html href=teaching.link %}
+          {%- endif -%}
+          {{ teaching.name }}
+          {%- if teaching.link -%}
+            </a>
+          {%- endif -%}
+          </h4>
+        <p>{{ teaching.dates }}</p>
+      </div>
+      <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+        {%- if teaching.title -%}
+        <p class="title"><em>{{ teaching.title }}</em></p>
+        {%- endif -%}
+        {{ teaching.description | strip | markdownify }}
+      </div>
+    </div>
+  {% endfor %}
+</div>

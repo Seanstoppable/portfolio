@@ -1,0 +1,42 @@
+---
+# Speaker template
+- name: BSides Philly
+  location: Philadelphia, PA
+  dates: February 2019
+  link: https://www.bsidesphilly.org/speaker/sean-smith/
+  title: >
+    From The Outside In: What The Internet Knows About Your Digital Footprint
+
+- name: The Long Con
+  location: Winnipeg, MB
+  dates: November 2018
+  link: https://thelongcon.ca/speakers/#sean-smith​
+  title: >
+    Things The Internet Knows About You
+
+- name: Presentation to Private Business
+  location: New York, NY
+  dates: July 2018
+  title: >
+    Protecting Yourself In An Increasing Digital Age
+
+- name: Microservices Day
+  location: New York, NY
+  dates: July 2015
+  link: https://web.archive.org/web/20150709162836/http://microservicesday.com/
+  title: >
+    Microservices At Gilt Groupe
+
+- name: Confoo
+  location: Montreal, QC
+  dates: February 2014
+  link: https://confoo.ca/en/2014/session/ux-doesn-t-end-at-checkout-the-back-end-of-ecommerce
+  title: >
+    UX Doesn’t End At Checkout: The Back-end of eCommerce
+
+- name: CamelOne
+  location: Boston, MA
+  dates: May 2012
+  link: http://camelone.org/camelone-2012/#chazlett
+  title: >
+    From Riding on Rails to Riding On Camels
