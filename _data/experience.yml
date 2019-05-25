@@ -1,9 +1,18 @@
 ---
 # Experience template
+
+- company: Attentive
+  link: https://www.attentivemobile.com
+  job_title: Senior Sofftware Engineer
+  dates: March 2019 - Present
+  quote: >
+    Attentive provides a mobile messaging platform aimed at marketing outreach for eCommerce and retail
+  description:
+
 - company: SecurityScorecard
   link: https://www.securityscorecard.com/
   job_title: Director of Architecture
-  dates: October 2015 - present
+  dates: October 2015 - March 2019
   quote: >
     SecurityScorecard provides security ratings for any company on the internet in under 5 minutes.
   description: | # this will include new lines to allow paragraphs
