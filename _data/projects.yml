@@ -10,6 +10,17 @@
     This newsletter collected interesting stories and trends, attempting to distill large articles
     into more consumable tidbits for coworkers and other interested parties.
 
+- name: wtf
+  github: wtfutil/wtf
+  link: http://www.wtfutil.com
+  quote: >
+    The personal information dashboard for your terminal.
+  description: | # this will include new lines to allow paragraphs
+    Contributor/maintainer to this open source project. In particular:
+     - A plugin for `Datadog` to show triggered alerts.
+     - A plugin for `PagerDuty` to show triggered alerts and on-call schedules.
+     - Several large refactors to make the app more consistent and to make new module creation easier.
+
 - name: awesome-leading-and-managing
   github: LappleApple/awesome-leading-and-managing
   quote: >
@@ -19,16 +30,6 @@
     subject of leading and managing.
     Geared towards people coming from the tech space, as many engineers tend to
     find themselves thrust into managerial roles.
-
-- name: wtf
-  github: wtfutil/wtf
-  link: http://www.wtfutil.com
-  quote: >
-    The personal information dashboard for your terminal.
-  description: | # this will include new lines to allow paragraphs
-    Contributor of plugins to this open source project. In particular:
-     - A plugin for `Datadog` to show triggered alerts.
-     - A plugin for `PagerDuty` to show triggered alerts and on-call schedules.
 
 - name: gmailcleaner
   github: Seanstoppable/gmailcleaner

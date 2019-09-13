@@ -3,11 +3,14 @@
 
 - company: Attentive
   link: https://www.attentivemobile.com
-  job_title: Senior Sofftware Engineer
+  job_title: Senior Software Engineer
   dates: March 2019 - Present
   quote: >
     Attentive provides a mobile messaging platform aimed at marketing outreach for eCommerce and retail
-  description:
+  description: |
+    - Technical Lead for 'Growth', focused on customer acquisition channels and subscription management.
+    - Member of the security council, involved in improving the cybersecurity posture of the company.
+    - Presented on a variety of topics, including testing and security.
     - Awarded "Employee of the Month" for June 2019 for pushing cross team improvements and conversation.
 
 - company: SecurityScorecard
