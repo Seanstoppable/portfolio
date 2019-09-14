@@ -19,6 +19,7 @@
     Contributor/maintainer to this open source project. In particular:
      - A plugin for `Datadog` to show triggered alerts.
      - A plugin for `PagerDuty` to show triggered alerts and on-call schedules.
+     - Support to allow multiple instances of a module to be run at the same time.
      - Several large refactors to make the app more consistent and to make new module creation easier.
 
 - name: awesome-leading-and-managing
