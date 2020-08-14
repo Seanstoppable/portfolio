@@ -5,10 +5,10 @@
   link: https://www.attentivemobile.com
   dates: March 2019 - Present
   jobs:
-    - title: Senior Software Engineer II
-      dates: March 2019 - January 2020
     - title: Staff Software Engineer
       dates: January 2020 - Present
+    - title: Senior Software Engineer II
+      dates: March 2019 - January 2020
   quote: >
     Attentive provides a mobile messaging platform aimed at marketing outreach for eCommerce and retail
   description: |
@@ -50,14 +50,14 @@
 - company: Gilt Groupe
   dates: August 2011 - September 2015
   jobs:
-    - title: Software Engineer
-      dates: August 2011 - April 2012
-    - title: Lead Engineer
-      dates: April 2012 - August 2013
-    - title: Senior Software Engineer
-      dates: August 2013 - November 2014
     - title: Princial Software Engineer
       dates: November 2014 - September 2015
+    - title: Senior Software Engineer
+      dates: August 2013 - November 2014
+    - title: Lead Engineer
+      dates: April 2012 - August 2013
+    - title: Software Engineer
+      dates: August 2011 - April 2012
   quote: >
     Gilt Groupe was an online shopping and lifestyle eCommerce site.
   description: | # this will include new lines to allow paragraphs
