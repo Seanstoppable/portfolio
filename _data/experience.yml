@@ -8,10 +8,14 @@
     - title: Senior Software Engineer II
       dates: March 2019 - January 2020
     - title: Staff Software Engineer
-      dates: January 2020 - Preset
+      dates: January 2020 - Present
   quote: >
     Attentive provides a mobile messaging platform aimed at marketing outreach for eCommerce and retail
   description: |
+    2020
+    - Technical Lead for 'Integrations'. Focused on streamlining our integration pipeline so that we can manage 10x the integrations for 10x the customers.
+
+    2019
     - Technical Lead for 'Growth', focused on customer acquisition channels and subscription management.
     - Normalized our various subscriber acquisition channels. This provided benefits such as consistent reporting, easier targeting, and easier leverage of our channel characteristics into the rest of the platform, unlocking functionality that had been missing.
     - Built consistent APIs, allowing us to easily experiment with new acquisition channels.
